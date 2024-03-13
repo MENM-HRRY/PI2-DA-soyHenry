@@ -25,7 +25,7 @@ en la cual concluyo que, los choques se dan en las intersecciones y que es muy d
 
 En resumen el registro de los accidentes viales muestra datos insuficientes de repetitividad, ya que los 717 casos documentados en su mayoria se repiten 1 vez para cada interseccion; durante seis años de registros que contempla el dataset, son observables algunas salvedades en las que se presentan dos acidentes, siendo cuatro el numero mayor de choques que se presentan en una misma interseccion o coordenada. 
 
- Otro problema que se presentan en las dos hojas llamadas: hechos y víctimas, es que a pesar de que la construcción del dataset representa una labor incomiable y titanica no presenta datos significativos tales como; el motivo o causa de origen del siniestro, pruebas de alcolemia o si fue una falla mecanica; teniendo en cuenta los siguientes puntos para la elaboracion de su clasifcador:
+ Otro problema que se presentan en las dos hojas llamadas: hechos y víctimas, es que a pesar de que la construcción del dataset representa una labor incomiable y titanica no presenta datos significativos tales como; el motivo o causa de origen del siniestro, pruebas de alcoholemia o si fue una falla mecanica de vehiculo acusado; teniendo en cuenta los siguientes puntos para la elaboracion de su clasifcador expreso lo siguiente:
 
 
 ### **Contexto**
