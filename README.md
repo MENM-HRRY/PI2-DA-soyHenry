@@ -20,7 +20,7 @@ Como primera tarea para familiarizarme con el dataset de que nos comparte la age
 
 Construí un mapa mediante la libreria folium, sobre la demarcacion CABA para enteder su distribucion geografica:
 ![alt text](image-1.png)
-en la cual concluyo que, los choques se dan en las intersecciones y que es muy dificil determinar la periodicidad de los eventos mediante un mapa con punteros de coordenadas, por lo decido que con un filtro puedo construir una tabla dinamica para observar lo siguiente:
+en la cual concluyo que, los choques se dan en las intersecciones y que es muy dificil determinar la periodicidad de los eventos mediante un mapa con punteros de coordenadas, por que decido realizar mediante un filtro la construcción de una tabla dinamica para observar lo siguiente:
 ![alt text](image.png)
 
 En resumen el registro de los accidentes viales muestra datos insuficientes de repetitividad, ya que los 717 casos documentados en su mayoria se repiten 1 vez para cada interseccion; durante seis años de registros que contempla el dataset, son observables algunas salvedades en las que se presentan dos acidentes, siendo cuatro el numero mayor de choques que se presentan en una misma interseccion o coordenada. 
